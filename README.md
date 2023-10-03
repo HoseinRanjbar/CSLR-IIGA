@@ -26,8 +26,9 @@ python ./segmentation/extract_segmentation.py --data_path $DATASET_PATH --des_pa
 
 ### An example of remove background from the image
 
-![architecture](./images/segmentation.png)
-
+<p align="center">
+  <img src="./images/segmentation.png" width="224" >
+</p>
 
  ## Train
 
