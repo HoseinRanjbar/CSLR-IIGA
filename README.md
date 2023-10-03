@@ -67,11 +67,29 @@ python -u test.py --data ./CSLR-IIGA/phoenix2014-release/phoenix-2014-multisigne
     --data_stats ./CSLR-IIGA/tools/data/data_stats.pt 
 </pre>
 
+**model_path** : path of pretrained model weights
+
 2 samples of prediction of our propose model are provided in below:
 
 ![architecture](./images/example_data.png)
 
-##
+## Prediction
+
+To predict a video, use the following command.
+
+<pre>
+python -u prediction.py --data ./CSLR-IIGA/phoenix2014-release/phoenix-2014-multisigner/features/fullFrame-210x260px/test \
+    --model_path ./CSLR-IIGA/trained_model/ \
+    --csv_path ./CSLR-IIGA/phoenix2014-release/phoenix-2014-multisigner/annotations/manual/test.corpus.csv \
+    --lookup_table  ./CSLR-IIGA/tools/data/SLR_lookup_pickle.txt \
+    --idx 4 --data_stats ./CSLR-IIGA/tools/data/data_stats.pt 
+</pre>
+
+**data** : Test video address
+
+**model_path** : path of pretrained model weights
+
+**idx** : number or index of a video
 
 
  
