@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <sup>1</sup> <span style="color:darkgreen">Department of Mechanical Engineering, Sharif University of Technology, Tehran, Iran</span> <br>
+  <span style="color:darkgreen">Department of Mechanical Engineering, Sharif University of Technology, Tehran, Iran</span> <br>
 </p>
 
+ ---
 
 This repository provides a pytorch-based implementation of **Continuous Sign Language Recognition Using Intra-Inter Gloss Attention**.
 
