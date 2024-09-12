@@ -1,4 +1,15 @@
-# Continuous Sign Language Recognition Using Intra-Inter Gloss Attention
+<h1 align="center">Continuous Sign Language Recognition Using Intra-Inter Gloss Attention</h1>
+
+<p align="center">
+  <b>
+    <span style="color:blue">Hossein Ranjbar, Alireza Taheri
+  </b>
+</p>
+
+<p align="center">
+  <sup>1</sup> <span style="color:darkgreen">Department of Mechanical Engineering, Sharif University of Technology, Tehran, Iran</span> <br>
+</p>
+
 
 This repository provides a pytorch-based implementation of **Continuous Sign Language Recognition Using Intra-Inter Gloss Attention**.
 
