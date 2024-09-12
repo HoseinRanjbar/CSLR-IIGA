@@ -10,6 +10,8 @@
   <span style="color:darkgreen">Department of Mechanical Engineering, Sharif University of Technology, Tehran, Iran</span> <br>
 </p>
 
+[![arXiv](https://img.shields.io/badge/arXiv-<https://arxiv.org/abs/2406.18333>-b31b1b.svg)](https://arxiv.org/abs/<https://arxiv.org/abs/2406.18333>)
+
  ---
 
 This repository provides a pytorch-based implementation of **Continuous Sign Language Recognition Using Intra-Inter Gloss Attention**.
