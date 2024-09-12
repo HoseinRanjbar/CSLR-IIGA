@@ -10,8 +10,6 @@
   <span style="color:darkgreen">Department of Mechanical Engineering, Sharif University of Technology, Tehran, Iran</span> <br>
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.18333-b31b1b.svg)](https://arxiv.org/abs/2406.18333)
-
 <p align="center">
   <a href="https://arxiv.org/abs/2406.18333">
     <img src="https://img.shields.io/badge/arXiv-2406.18333-b31b1b.svg" alt="arXiv">
