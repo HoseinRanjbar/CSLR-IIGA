@@ -12,7 +12,7 @@ place of the vanilla self-attention module.
 
 **Overview of our propose model is provided in below.**
 
-![architecture](./images/overview.png)
+![architecture](./images/architectures.png)
 
 ---
 
